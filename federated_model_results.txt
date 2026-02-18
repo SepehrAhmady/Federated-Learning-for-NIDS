@@ -1,0 +1,11 @@
+--- Federated Model (FedAvg) Final Evaluation ---
+Timestamp: 2026-02-17 12:32:12
+Number of Clients: 10
+Number of Rounds: 5
+
+Evaluation on Centralized Test Set:
+- Accuracy:  0.9779
+- Precision: 0.9824
+- Recall:    0.9054
+- F1-Score:  0.9424
+--------------------------------------------------

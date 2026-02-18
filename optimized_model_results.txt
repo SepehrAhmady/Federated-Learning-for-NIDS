@@ -1,0 +1,16 @@
+--- Optimized Model (Centralized) Evaluation Results ---
+Timestamp: 2026-02-17 04:01:33
+
+Best Hyperparameters Found:
+- batch_size: 1024
+- model__dropout_rate: 0.2
+- model__learning_rate: 0.0002051338263087451
+- model__neurons_l1: 138
+- model__neurons_l2: 106
+
+Evaluation on Unseen Test Set:
+- Accuracy:  0.9813
+- Precision: 0.9948
+- Recall:    0.9110
+- F1-Score:  0.9511
+----------------------------------------------------------
